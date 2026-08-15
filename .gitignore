@@ -1,0 +1,18 @@
+# Secrets
+.env
+.env.swp
+
+# Caches
+.osint-cache.db
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
